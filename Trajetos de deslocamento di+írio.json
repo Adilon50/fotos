@@ -1,0 +1,14 @@
+{"trips": [{
+  "id": "3AF328A293028212",
+  "place_visit": [
+    {"id": "SOURCE_ID"},
+    {
+      "id": "DESTINATION_ID",
+      "place": {"semantic_type": "TYPE_UNKNOWN"}
+    }
+  ],
+  "transition": [{
+    "origin": {"visit_id": "SOURCE_ID"},
+    "destination": {"visit_id": "DESTINATION_ID"}
+  }]
+}]}
